@@ -6,4 +6,4 @@
   - JavaScript
   
   
-*** Thanks for visiting my Repository 😊 ***
+***Thanks for visiting my Repository 😊***
